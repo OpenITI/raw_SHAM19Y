@@ -1,0 +1,92 @@
+2019-10-17 16:02:47.688 jetread[26427:11877834] Error while reading column 0 of table b432 (record 1c06): (null)
+2019-10-17 16:03:29.288 jetread[26938:11879747] Error while reading column 1 of table b10759 (record 1e412): (null)
+2019-10-17 16:03:42.072 jetread[26943:11879838] Error while reading column 1 of table b10769 (record 11e107): (null)
+2019-10-17 16:03:59.024 jetread[26945:11879952] Error while reading column 1 of table b10772 (record 7901): (null)
+2019-10-17 16:04:12.459 jetread[26949:11880183] Error while reading column 1 of table b10773 (record 12e007): (null)
+2019-10-17 16:04:24.360 jetread[26958:11880350] Error while reading column 1 of table b10786 (record b511): (null)
+	./_04_jetScript_all_tables.sh: line 12: 26978 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:04:39.721 jetread[27017:11880702] Error while reading column 0 of table b1094 (record 1641d): (null)
+	./_04_jetScript_all_tables.sh: line 12: 27118 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 27295 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 27407 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:05:05.609 jetread[27472:11883107] Error while reading column 0 of table b1190 (record a4324): (null)
+2019-10-17 16:05:18.238 jetread[27644:11883681] Error while reading column 0 of table b122187 (record 1a00): (null)
+	./_04_jetScript_all_tables.sh: line 12: 27735 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:05:35.506 jetread[27754:11884242] Error while reading column 0 of table b124910 (record 22c51b): (null)
+2019-10-17 16:06:06.101 jetread[28128:11885769] Error while reading column 0 of table b13223 (record 36e1c): (null)
+2019-10-17 16:06:07.794 jetread[28135:11885801] Error while reading column 0 of table b132374 (record 1a03): (null)
+2019-10-17 16:06:19.541 jetread[28226:11886134] Error while reading column 0 of table b133371 (record 1a11): (null)
+2019-10-17 16:06:21.950 jetread[28263:11886250] Error while reading column 0 of table b13564 (record 1a10): (null)
+2019-10-17 16:06:23.314 jetread[28273:11886284] Error while reading column 0 of table b13595 (record 9715): (null)
+2019-10-17 16:06:24.489 jetread[28280:11886306] Error while reading column 0 of table b13612 (record 470b): (null)
+2019-10-17 16:06:30.396 jetread[28312:11886486] Error while reading column 0 of table b13783 (record 134020): (null)
+2019-10-17 16:06:34.579 jetread[28377:11886766] Error while reading column 0 of table b14100 (record 7c00b): (null)
+2019-10-17 16:06:38.664 jetread[28423:11886923] Error while reading column 0 of table b14254 (record 16612): (null)
+2019-10-17 16:06:38.834 jetread[28427:11886935] Error while reading column 0 of table b14261 (record 7f0b): (null)
+2019-10-17 16:06:51.378 jetread[28514:11887270] Error while reading column 2 of table Main (record 24f00): (null)
+2019-10-17 16:06:51.753 jetread[28520:11887288] Error while reading column 0 of table b145203 (record 1a07): (null)
+2019-10-17 16:06:55.474 jetread[28545:11887373] Error while reading column 0 of table b145410 (record 6618): (null)
+2019-10-17 16:07:02.290 jetread[28596:11887586] Error while reading column 0 of table b146127 (record d4706): (null)
+2019-10-17 16:07:05.959 jetread[28627:11887707] Error while reading column 0 of table b147374 (record 50606): (null)
+2019-10-17 16:07:08.359 jetread[28654:11887797] Error while reading column 0 of table b147812 (record 14413): (null)
+2019-10-17 16:07:09.259 jetread[28666:11887834] Error while reading column 0 of table b148091 (record 19a60d): (null)
+	./_04_jetScript_all_tables.sh: line 12: 28668 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 28685 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:07:20.622 jetread[28725:11888581] Error while reading column 0 of table b150936 (record 8e310): (null)
+2019-10-17 16:07:20.722 jetread[28726:11888585] Error while reading column 0 of table b150937 (record 14204): (null)
+2019-10-17 16:07:20.987 jetread[28730:11888598] Error while reading column 0 of table b150960 (record 20201): (null)
+2019-10-17 16:07:21.400 jetread[28732:11888604] Error while reading column 0 of table b150962 (record 7051a): (null)
+2019-10-17 16:07:22.281 jetread[28739:11888635] Error while reading column 0 of table b151007 (record 6f1d): (null)
+2019-10-17 16:07:24.992 jetread[28766:11888720] Error while reading column 0 of table b1532 (record 641d): (null)
+2019-10-17 16:07:41.106 jetread[28866:11889239] Error while reading column 0 of table b16822 (record 1251e): (null)
+	./_04_jetScript_all_tables.sh: line 12: 28934 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:08:10.219 jetread[29087:11890345] Error while reading column 0 of table b17791 (record 1a03): (null)
+2019-10-17 16:08:17.498 jetread[29168:11890640] Error while reading column 0 of table b18144 (record 18f19): (null)
+2019-10-17 16:08:23.000 jetread[29195:11890736] Error while reading column 0 of table b18268 (record 2fe60e): (null)
+2019-10-17 16:08:24.012 jetread[29205:11890783] Error while reading column 0 of table b18279 (record 2f09): (null)
+2019-10-17 16:08:24.340 jetread[29211:11890801] Error while reading column 5 of table Main (record 4d00): (null)
+2019-10-17 16:08:24.507 jetread[29212:11890804] Error while reading column 0 of table b18294 (record 5e406): (null)
+2019-10-17 16:08:25.387 jetread[29220:11890829] Error while reading column 0 of table b18339 (record 3716): (null)
+2019-10-17 16:08:36.659 jetread[29347:11891307] Error while reading column 0 of table b20588 (record 1230d): (null)
+2019-10-17 16:08:38.103 jetread[29360:11891361] Error while reading column 0 of table b2066 (record 1a016): (null)
+2019-10-17 16:08:45.885 jetread[29409:11891583] Error while reading column 0 of table b20979 (record 1a13): (null)
+2019-10-17 16:08:49.020 jetread[29435:11891754] Error while reading column 0 of table b2135 (record 761e): (null)
+	./_04_jetScript_all_tables.sh: line 12: 29505 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:09:24.254 jetread[29670:11892856] Error while reading column 0 of table b21809 (record fa207): (null)
+2019-10-17 16:10:00.348 jetread[29915:11893843] Error while reading column 0 of table b23625 (record 1a100): (null)
+2019-10-17 16:10:22.434 jetread[30059:11894389] Error while reading column 0 of table b26332 (record c6716): (null)
+2019-10-17 16:10:30.410 jetread[30182:11895000] Error while reading column 0 of table b26583 (record 411a): (null)
+2019-10-17 16:10:34.884 jetread[30312:11895449] Error while reading column 1 of table b27107 (record 37c07): (null)
+2019-10-17 16:10:43.850 jetread[30323:11895551] Error while reading column 0 of table b28100 (record 4a706): (null)
+2019-10-17 16:10:48.176 jetread[30371:11895740] Error while reading column 0 of table b29558 (record b2621): (null)
+2019-10-17 16:10:49.445 jetread[30388:11895797] Error while reading column 0 of table b29613 (record 6e416): (null)
+2019-10-17 16:10:52.154 jetread[30393:11895813] Error while reading column 1 of table b29674 (record 701819): (null)
+2019-10-17 16:10:56.069 jetread[30424:11895923] Error while reading column 0 of table b29731 (record 5a014): (null)
+2019-10-17 16:11:01.295 jetread[30464:11896053] Error while reading column 0 of table b29788 (record 5607): (null)
+2019-10-17 16:11:05.982 jetread[30477:11896136] Error while reading column 1 of table b29856 (record 66313): (null)
+2019-10-17 16:11:14.743 jetread[30489:11896210] Error while reading column 1 of table b29874 (record 14513): (null)
+2019-10-17 16:11:19.880 jetread[30499:11896297] Error while reading column 0 of table b29891 (record 551a): (null)
+2019-10-17 16:11:24.352 jetread[30512:11896347] Error while reading column 0 of table b29916 (record 106616): (null)
+2019-10-17 16:11:29.506 jetread[30532:11896416] Error while reading column 0 of table b29974 (record c430b): (null)
+2019-10-17 16:11:35.645 jetread[30623:11896752] Error while reading column 1 of table b30362 (record 1ca10c): (null)
+2019-10-17 16:11:51.889 jetread[30884:11897640] Error while reading column 0 of table b32528 (record bc513): (null)
+2019-10-17 16:12:01.623 jetread[30973:11897943] Error while reading column 5 of table Main (record 8d00): (null)
+2019-10-17 16:12:27.876 jetread[31318:11899213] Error while reading column 0 of table b37531 (record a270c): (null)
+2019-10-17 16:12:32.409 jetread[31396:11899458] Error while reading column 0 of table b37650 (record 511d): (null)
+2019-10-17 16:12:39.584 jetread[31534:11899991] Error while reading column 0 of table b38149 (record 1a1b): (null)
+	./_04_jetScript_all_tables.sh: line 12: 31985 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32028 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32243 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32274 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32342 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32344 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32402 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:13:52.574 jetread[32526:11904379] Error while reading column 0 of table b7532 (record 2ea01): (null)
+	./_04_jetScript_all_tables.sh: line 12: 32557 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+	./_04_jetScript_all_tables.sh: line 12: 32576 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:14:16.424 jetread[32819:11905689] Error while reading column 0 of table b8312 (record 1811c): (null)
+2019-10-17 16:14:19.037 jetread[32825:11905709] Error while reading column 1 of table b8322 (record 553c07): (null)
+2019-10-17 16:14:43.407 jetread[33102:11906670] Error while reading column 0 of table b9080 (record 410c): (null)
+	./_04_jetScript_all_tables.sh: line 12: 33346 Segmentation fault: 11  ../jetread $mdbfile export -fmt json > ../$trgFolder/$mdbfile.json
+2019-10-17 16:15:27.575 jetread[33730:11909075] Error while reading column 0 of table b98124 (record d8321): (null)
+9999.bok
